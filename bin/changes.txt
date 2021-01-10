@@ -1,0 +1,4 @@
+1/10/2020 (dd/mm/yy).release1
+- fixed the ugly scrollbars
+- updated syntax highlighting
+- added scripts menu
